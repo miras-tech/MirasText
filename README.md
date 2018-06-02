@@ -1,7 +1,5 @@
 # MirasText: An Automatically Generated Text Corpus for Persian
-This repository contains MirasText corpus and description along side with what it has been used for and what it can be used for. A sample of the dataset is provided in MirasText_sample.txt which contains 1000 documents. The full dataset is uploaded in google drive where you can download it. In order to use the complete dataset you need to submit a request to behnam@miras-tech.com and we will provide you with the password needed to extract MirasText.zip.
-
-MirasText corpus download link : 
+This repository contains MirasText corpus and description along side with what it has been used for and what it can be used for. A sample of the dataset is provided in MirasText_sample.txt which contains 1000 documents. The full dataset is uploaded in google drive and you can download it [here](https://drive.google.com/file/d/1QNHPv4B22d-Dj7oYoOKQNx2zUfFzsAUL/view?usp=sharing). In order to use the complete dataset you need to submit a request to behnam@miras-tech.com and we will provide you with the password needed to extract MirasText.zip.
 
 ## MirasText Description
 MirasText is the result of crawling more than 250 persain news websites. Each article in MirasText contains the following attributes:
